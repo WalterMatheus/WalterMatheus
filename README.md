@@ -1,11 +1,41 @@
-- 👋 Hi, I’m @WalterMatheus
-- 👀 I’m interested in solving problems using my knowledge.
-- 🌱 I’m currently learning Python, SQL and R.
-- 💞️ I’m looking to collaborate on data driven decision projects.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i know how to mimic my own shadow
+# Olá, eu sou o Walter Matheus 👋
 
-<!---
-WalterMatheus/WalterMatheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 Sobre mim
+
+Sou Engenheiro Agrônomo com experiência em análise de crédito e geoprocessamento. Sou apaixonado por resolver problemas com tecnologia e estou sempre buscando aprender e aplicar novas ferramentas e conhecimentos.
+
+Atualmente, estou focado em aprimorar minhas habilidades em análise de dados, desenvolver projetos pessoais com Python e explorar novas ferramentas de BI.
+
+### 💻 Minhas Habilidades
+
+Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
+
+**Linguagens de Programação:**
+* Python
+* SQL
+* R
+
+**Ferramentas e Plataformas:**
+* Power BI
+* Tableau
+* Google Cloud
+* GitHub
+
+
+### 🌱 O que estou aprendendo
+
+Estou sempre buscando expandir meu conhecimento. Atualmente, estou aprendendo/aprofundando em:
+* Ferramentas de visualização de dados
+* Ferramentas de geração de insights utilizando dados
+* Ferramentas de automação
+
+### 💬 Entre em Contato
+
+Adoraria me conectar e trocar ideias!
+
+* **LinkedIn:** www.linkedin.com/in/walter-matheus-58188113b
+* **Email:** malterwatheus@hotmail.com
+
+---
+
+⭐ Deixe um star em alguns dos meus repositórios se você gostar do meu trabalho!
