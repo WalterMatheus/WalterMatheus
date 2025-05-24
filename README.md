@@ -28,6 +28,9 @@ Estou sempre buscando expandir meu conhecimento. Atualmente, estou aprendendo/ap
 * Ferramentas de visualização de dados
 * Ferramentas de geração de insights utilizando dados
 * Ferramentas de automação
+  
+### Meus projetos
+- [Dados CVM](https://github.com/WalterMatheus/Dados_CVM)
 
 ### 💬 Entre em Contato
 
