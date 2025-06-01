@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou Engenheiro Agrônomo com experiência em análise de crédito e geoprocessamento. Sou apaixonado por resolver problemas com tecnologia e estou sempre buscando aprender e aplicar novas ferramentas.
+Sou engenheiro agrônomo com experiência em análise de crédito e geoprocessamento. Sou apaixonado por resolver problemas com tecnologia e estou sempre buscando aprender e aplicar novas ferramentas.
 
 Atualmente, estou focado em aprimorar minhas habilidades em análise de dados, desenvolver projetos pessoais com Python e explorar novas ferramentas de BI.
 
