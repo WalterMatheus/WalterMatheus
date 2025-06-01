@@ -31,6 +31,7 @@ Estou sempre buscando expandir meu conhecimento. Atualmente, estou aprendendo/ap
   
 ### Meus projetos
 - [Dados CVM](https://github.com/WalterMatheus/Dados_CVM)
+- [Dados IBGE](https://github.com/WalterMatheus/Dados_IBGE)
 
 ### 💬 Entre em Contato
 
